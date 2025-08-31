@@ -3,7 +3,7 @@ html, div, p, h1 ,h2 ,h3{
     color:white
 }
 body{
-    background-image: url(img/dark-background.jpg);
+    background-image: url(https://raw.githubusercontent.com/NEFORMAL4IK/html-main/refs/heads/master/img/dark-background.jpg);
 }
 .cnt{
     display:flex;
